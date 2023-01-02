@@ -1,0 +1,37 @@
+body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background: linear-gradient(to bottom right, rgb(32, 251, 251),#3350f1,rgb(231, 66, 231), rgb(126, 6, 126));
+}
+
+.header
+{
+	color: white;
+    font-family: 'Yeon Sung';
+    font-size: 60px;
+    letter-spacing: 5px;
+    margin-top: 80px;
+}
+
+h3
+{
+font-family: cursive;
+color: rgb(176, 238, 167);
+}
+
+h4
+{
+font-family:monospace;
+color: gold;
+font-size: 20px;
+}
+
+label
+{
+    color: beige;
+}
