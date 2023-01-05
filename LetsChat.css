@@ -35,3 +35,15 @@ label
 {
     color: beige;
 }
+
+#user_name
+{
+  font-size: 40px;
+  color:chartreuse;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#title
+{
+  color: darkorange;
+}
