@@ -2,11 +2,7 @@ body
 {
   height: 100%;
   margin: 0;
-}
-
-body
-{
-background: linear-gradient(to bottom right, rgb(32, 251, 251),#3350f1,rgb(231, 66, 231), rgb(126, 6, 126));
+  background: linear-gradient(to bottom right, rgb(32, 251, 251),#3350f1,rgb(231, 66, 231), rgb(126, 6, 126));
 }
 
 .header
@@ -45,4 +41,69 @@ label
 #title
 {
   color: darkorange;
+}
+
+#page
+{
+background-color: rgb(164, 164, 246);
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+
+.room_name
+{
+	color: floralwhite;
+	background-color: rgb(149, 149, 251);
+	cursor: pointer;
+	font-size: 21px;
+}
+
+#username
+{
+	color: rgba(86, 238, 59, 0.916);
+	font-size: 27px;
+}
+
+.user_tick
+{
+	margin: 10px;
+ width: 20px;
 }
